@@ -17,8 +17,7 @@ const workoutSeed = [
         duration: 20,
         weight: 100,
         reps: 10,
-        sets: 4,
-      },
+        sets: 4,da
     ],
   },
   {
